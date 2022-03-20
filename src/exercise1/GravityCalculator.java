@@ -3,7 +3,7 @@ package exercise1;
 import java.util.Scanner;
 
 public class GravityCalculator {
-    static final double GRAVITY = -9.81;
+    static final double GRAVITY = 9.81;
     private int fallingTime = 0;
     private double initialPosition, initialVelocity = 0;
 
